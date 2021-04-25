@@ -1,0 +1,12 @@
+body {
+    background-color:azure
+}
+
+p {
+    text-decoration: underline;
+    text-transform:uppercase;
+    letter-spacing: 3px;
+    text-indent: 20px;
+    line-height: 4;
+    word-spacing: 20px;
+}
